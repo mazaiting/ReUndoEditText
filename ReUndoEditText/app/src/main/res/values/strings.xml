@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">ReUndoEditText</string>
+
+  <string name="action_redo">重做</string>
+  <string name="action_undo">撤销</string>
+  <string name="action_clear">清除撤销记录</string>
+</resources>
